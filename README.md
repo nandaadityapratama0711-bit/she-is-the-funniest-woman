@@ -234,6 +234,10 @@ footer{
   </div>
 </section>
 
+<section class="reveal">
+ <div class="quote">
+      <h3> Halo Samsidar, maaf ya sudah pernah suka sama dirimu. bukan bermaksud memberi harapan palsu tapi... adalah pokoknya hehe. saya pas outdoor kentara banget ya? pas kalian bahas si crush mu memang nya saya terlihat tidak mood atau sebagainya kah? takut begete. kamu orangnya lucu lucu gemes hohohoho walaupun ada dewasa dewasa nya dikit. ku harap masih bisa ngumpul se anto tanpa canggung dan asing tentunya dimana ngumpul kayak biasa main uno, makan gorengan, seru seruan. maaf ya sekali lagi. Senang berkenalan dengan mu nona KINYIS KINYIS.</h3>
+
 <footer>
   © 2025 | @by.6287625
 </footer>
