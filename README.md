@@ -235,7 +235,7 @@ footer{
 </section>
 
 <footer>
-  © 2025 | Made with 💗
+  © 2025 | @by.6287625
 </footer>
 
 <script>
