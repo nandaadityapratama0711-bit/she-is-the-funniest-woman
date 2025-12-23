@@ -236,7 +236,7 @@ footer{
 
 <section class="reveal">
  <div class="quote">
-      <h3> Halo Samsidar, maaf ya sudah pernah suka sama dirimu. bukan bermaksud memberi harapan palsu tapi... adalah pokoknya hehe. Semoga kmu tidak risih. Pas outdoor kentara banget ya? pas kalian bahas si crush mu memang nya saya terlihat tidak mood atau sebagainya kah? takut begete. Kamu orangnya lucu lucu gemes hohohoho ada dewasa dewasa nya dikit. ku harap masih bisa ngumpul se anto tanpa canggung dan asing tentunya dimana ngumpul kayak biasa main uno, makan gorengan, seru seruan. maaf ya sekali lagi. jaga kesehatan, pola makan, pola tidur dan semangat kuliahnya. Senang berkenalan dengan mu nona "KINYIS KINYIS".</h3>
+      <h2> Halo Samsidar, maaf ya sudah pernah suka sama dirimu. bukan bermaksud memberi harapan palsu tapi... adalah pokoknya hehe. Semoga kmu tidak risih. Pas outdoor kentara banget ya? pas kalian bahas si crush mu memang nya saya terlihat tidak mood atau sebagainya kah? takut begete. Kamu orangnya lucu lucu gemes hohohoho ada dewasa dewasa nya dikit. ku harap masih bisa ngumpul se anto tanpa canggung dan asing tentunya dimana ngumpul kayak biasa main uno, makan gorengan, seru seruan. maaf ya sekali lagi. jaga kesehatan, pola makan, pola tidur dan semangat kuliahnya. Jangan lupa janjinya, tapi serius jangan asing nah kelompok anto. Terimakasih sudah membaca yapping ku, jangan lupa balas yaa tidak usah gengsi!!!. Senang berkenalan dengan mu nona "KINYIS KINYIS".</h2>
 
 
 
